@@ -1,6 +1,6 @@
 # webhund
 Bash script to partially automate web penetration testing. Error handling included.
-```
+```yaml
 Ogre.flf
      __  __  _____  _____                  __  ___ 
   /\ \ \/__\/__   \/ _  /  /\  /\/\ /\  /\ \ \/   \
